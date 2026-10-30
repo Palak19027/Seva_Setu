@@ -1,0 +1,1 @@
+import{G as a,a8 as o,a9 as s,aa as e,ab as t,ac as r,ad as i,ae as n,K as h}from"./vendor-icons-DclxhIq6.js";const c={food:h,clothes:n,books:i,toys:r,stationery:t,groceries:e,footwear:s,household:o,others:a};export{c as C};
